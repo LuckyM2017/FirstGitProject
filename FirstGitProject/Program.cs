@@ -11,6 +11,8 @@ namespace FirstGitProject
         static void Main(string[] args)
         {
             Console.WriteLine("This is my First Git Project");
+            Console.WriteLine("This is my TestFirst Git Project");
+
             Console.ReadKey();
         }
     }
